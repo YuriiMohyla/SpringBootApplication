@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Iurii
+Build-Jdk: 12.0.2
+Implementation-Version: 1.0
+Implementation-Vendor-Id: springboot.topjava.ru
+Main-Class: ${start-class}
+
